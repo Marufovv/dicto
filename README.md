@@ -8,13 +8,6 @@ WIUT CV loyihasi: mahalliy video tahlili, jonli kompyuter/USB kamera, hodisa ann
 | Muharramxon Alixonova | UI/UX designer | alixonovamuharramxon45@gmail.com |
 | Abdubannopova Oydinoy | Data analytics, researcher | o3939043@gmail.com |
 
-## GitHub’ga yuklash
-
-1. ZIPni oching. GitHub’da `yuksava` nomli yangi repository yarating.
-2. `Add file → Upload files` orqali Yuksava_GitHub papkasi **ichidagi fayl va papkalarni** repository ildiziga tashlang. ZIPning o‘zini yuklamang. `app.py`, `README.md`, `Dockerfile` ildizda tursin.
-3. `Commit changes` bosing. Agar 100 fayldan ortiq bo‘lsa ikki bo‘lib yuklang. Mac’da yashirin `.github`, `.gitignore`, `.dockerignore` ni ko‘rsatish uchun Command+Shift+. bosing. GitHub Desktop butun papkani ham nashr qila oladi.
-4. Repository manzilini `configs/project.json` dagi `repository` maydoniga yozing.
-
 Model `weights/yolox_s.part01` va `part02` ko‘rinishida qo‘shilgan: har fayl brauzerning 25 MiB chegarasidan kichik. O‘rnatishda ular SHA256 tekshiruvi bilan birlashtiriladi. Bu modelni qayta o‘qitmaydi va inference uchun internet kerak emas.
 GitHub qoidasi: https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github
 
